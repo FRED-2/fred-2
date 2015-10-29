@@ -11,6 +11,7 @@ image:
   thumb: mhc.png
 share: false
 ---
+{% include toc.html %}
 
 ## Installation
 
@@ -21,7 +22,7 @@ Fred2 can simply be installed via <b>pip</b> with:
 ### Installation of External Tools
 
 For a fully functioning Fred2 installation, several external tools have to be installed. These tools can not be shipped
-with Fred2 due to Licencing issues or due to complex installation procedures.
+with Fred2 due to Licensing issues or due to complex installation procedures.
 
 The following tools are not provided by Fred2 and have to be downloaded and installed:
 
@@ -96,5 +97,14 @@ Therefore, Fred2 offers also methods to approximate the solution. For doing so, 
 
 ## Tutorials:
 
+### For Users
+- [Epitope Prediction](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/EpitopePrediction.ipynb) - This tutorial gives a good overview of the basic functionality covering the core objects, epitope prediction, and manipulation of the prediction results.
+- [Polymorhpic Epitope Prediction](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/PolymorphicEpitopePrediction.ipynb) - This tutorial exemplifies how to incorporate mutations into epitope prediction.
+- [Antigen Processing](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/CleavageAndTAPPrediction.ipynb) - The tutorial exemplifies the usage of proteasomal cleavage, TAP, and epitope prediction methods and how to combine these methods for T-cell epitope prediction.
+- [Vaccine Design](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/VaccineDesign.ipynb) - The tutorial covers all steps in rational vaccine design, from epitope discovery, epitope selection, as well as epitope delivery in the form of string-of-beads vaccines.
+- [HLA Typing](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/HLATyping.ipynb) - This short tutorial shows how to use FRED2 for HLA typing exemplified by the usage of [OptiType]().
 
+### For Advanced Users and Developers
+- [Generators and Databases](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/GeneratorsAndDatabaseAccess.ipynb) - This tutorial familiarizes the advanced users with internal functionalities of FRED2's data base adapters and generator functions.
+- [Interfaces](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/ImplementingNewMethods.ipynb) - This tutorial gives an overview of all abstract base classes relevant for implementing new prediction methods, or data base adapters.
 
