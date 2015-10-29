@@ -5,7 +5,7 @@ description: "Python framework for immunoinformatics"
 logo: favicon.ico
 teaser: favicon.ico
 locale: en_US
-url:  http://0.0.0.0:4000/
+url:  http://fred-2.github.io/Fred2/
 # Jekyll configuration
 
 sass:
