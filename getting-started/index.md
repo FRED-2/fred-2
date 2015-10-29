@@ -16,7 +16,7 @@ share: false
 
 Fred2 can simply be installed via <b>pip</b> with:
 
-<code>pip install https://github.com/FRED-2/Fred2</code>
+<code>pip install git+https://github.com/FRED-2/Fred2</code>
 
 ### Installation of External Tools
 
