@@ -102,7 +102,7 @@ Therefore, Fred2 offers also methods to approximate the solution. For doing so, 
 - [Polymorhpic Epitope Prediction](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/PolymorphicEpitopePrediction.ipynb) - This tutorial exemplifies how to incorporate mutations into epitope prediction.
 - [Antigen Processing](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/CleavageAndTAPPrediction.ipynb) - The tutorial exemplifies the usage of proteasomal cleavage, TAP, and epitope prediction methods and how to combine these methods for T-cell epitope prediction.
 - [Vaccine Design](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/VaccineDesign.ipynb) - The tutorial covers all steps in rational vaccine design, from epitope discovery, epitope selection, as well as epitope delivery in the form of string-of-beads vaccines.
-- [HLA Typing](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/HLATyping.ipynb) - This short tutorial shows how to use FRED2 for HLA typing exemplified by the usage of [OptiType]().
+- [HLA Typing](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/HLATyping.ipynb) - This short tutorial shows how to use FRED2 for HLA typing exemplified by the usage of [OptiType](https://github.com/FRED-2/OptiType).
 
 ### For Advanced Users and Developers
 - [Generators and Databases](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/GeneratorsAndDatabaseAccess.ipynb) - This tutorial familiarizes the advanced users with internal functionalities of FRED2's data base adapters and generator functions.
