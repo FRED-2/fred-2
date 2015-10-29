@@ -1,0 +1,13 @@
+---
+layout: {{ layout }}
+title: {{ title }}
+modified:
+categories: {{ dir }}
+excerpt:
+tags: []
+image:
+  feature: HIV-infected_H9_T_cell_45h.png
+  teaser: mhc.png
+  thumb: mhc.png
+comments: true
+---

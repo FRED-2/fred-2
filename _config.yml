@@ -1,0 +1,31 @@
+# Site wide configuration
+
+title: FRED2
+description: "Python framework for immunoinformatics"
+logo: favicon.ico
+teaser: favicon.ico
+locale: en_US
+url:  http://0.0.0.0:4000/
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  disqus-shortname: bennischubert
+  avatar: benjamin_schubert.png
+  name: Benjamin Schubert
+  bio: "PhD Student at Applied Bioinformatics Group University of Tübingen"
+  email: schubert@informatik.uni-tuebingen.de
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
