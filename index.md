@@ -23,13 +23,13 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Documentation</h2>
-  <p class="post-excerpt">We spend a significant amount of efforts on documenting FRED2 functions and classes. 
+  <p class="post-excerpt">We spent a significant amount of effort on documenting FRED2’s functions and classes. 
   You can find the documentation <b><a href="fred2.readthedocs.org">here</a></b>.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Get Involved</h2>
-  <p class="post-excerpt">Your favourite prediction method is missing? You discovered a bug, or just want to extend 
+  <p class="post-excerpt">Your favorite prediction method is missing? You discovered a bug, or just want to extend 
   FRED2's functionality? Have a look at you tutorials for developers 
   <b><a href="https://github.com/FRED-2/Fred2/wiki#for-developers">here</a></b>.</p>
 </div><!-- /.tile -->
