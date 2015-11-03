@@ -23,7 +23,7 @@ image:
                 <small>{{ post.date | date:'%A, %B %d, %Y'}}</small>
                 <article class="excerpt">{{ post.content | strip_html | truncatewords: 50 }}</article>
                 <br></br>
-                <small><a class="pull-left marginBottom10" href="{{post.url | prepend: site.baseurl }}">Read More</a></small>
+                <small><a class="pull-left marginBottom10" href="{{ site.url }}{{ post.url }}">Read More</a></small>
             </div>
         </div>
         {% endfor %}
