@@ -24,7 +24,7 @@ image:
 <div class="tile">
   <h2 class="post-title">Documentation</h2>
   <p class="post-excerpt">We spent a significant amount of effort on documenting FRED2’s functions and classes. 
-  You can find the documentation <b><a href="fred2.readthedocs.org">here</a></b>.</p>
+  You can find the documentation <b><a href="http://fred2.readthedocs.org">here</a></b>.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
