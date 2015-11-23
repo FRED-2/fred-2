@@ -30,7 +30,7 @@ image:
 <div class="tile">
   <h2 class="post-title">Get Involved</h2>
   <p class="post-excerpt">Your favorite prediction method is missing? You discovered a bug, or just want to extend 
-  FRED2's functionality? Have a look at you tutorials for developers 
+  FRED2's functionality? Have a look at our tutorials for developers 
   <b><a href="https://github.com/FRED-2/Fred2/wiki#for-developers">here</a></b>.</p>
 </div><!-- /.tile -->
 
