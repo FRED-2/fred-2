@@ -16,8 +16,8 @@ image:
 <div class="tile">
   <h2 class="post-title">Getting Started</h2>
   <p class="post-excerpt">The best way to familiarize yourself with FRED2 is by starting with our 
-  <b><a href="https://github.com/FRED-2/Fred2/tree/master/Fred2/tutorials">tutorials</a></b>. The 
-  <b><a href="https://github.com/FRED-2/Fred2/tree/master/Fred2/tutorials">tutorials</a></b> cover the basic 
+  <b><a href="http://fred-2.github.io/getting-started/">tutorials</a></b>. The 
+  <b><a href="http://fred-2.github.io/getting-started/">tutorials</a></b> cover the basic 
   functionality of FRED2.</p>
 </div><!-- /.tile -->
 
