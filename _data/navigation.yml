@@ -10,12 +10,12 @@
   excerpt: "News archive."
   image: mhc_400x250.png
 
-- title: "Who uses FRED2"
+- title: "Who uses FRED 2"
   url: /who/
-  excerpt: "FRED2 is used by researches to tackle and solve complex immunological questions."
+  excerpt: "FRED 2 is used by researches to tackle and solve complex immunological questions."
   image: mhc_400x250.png
 
 - title: About
   url: /about/
-  excerpt: "All about FRED2."
+  excerpt: "All about FRED 2."
   image: mhc_400x250.png
