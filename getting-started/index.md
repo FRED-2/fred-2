@@ -97,6 +97,9 @@ Therefore, Fred2 offers also methods to approximate the solution. For doing so, 
 
 ## Tutorials:
 
+We provide a wealth of tutorials for any level, from basic user, to advanced developer. These tutorials are provided as interactive [IPython Notebooks](http://ipython.org/notebook.html) and can be directly viewed online on our GitHub repository or can be executed offline via [IPython](http://ipython.org/index.html). To view the tutorials online, please [enable JavaScript](https://support.microsoft.com/en-us/gp/howtoscript), otherwise the notebooks will not render.
+
+
 ### For Users
 - [Epitope Prediction](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/EpitopePrediction.ipynb) - This tutorial gives a good overview of the basic functionality covering the core objects, epitope prediction, and manipulation of the prediction results.
 - [Polymorhpic Epitope Prediction](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/PolymorphicEpitopePrediction.ipynb) - This tutorial exemplifies how to incorporate mutations into epitope prediction.
@@ -105,6 +108,6 @@ Therefore, Fred2 offers also methods to approximate the solution. For doing so, 
 - [HLA Typing](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/HLATyping.ipynb) - This short tutorial shows how to use FRED2 for HLA typing exemplified by the usage of [OptiType](https://github.com/FRED-2/OptiType).
 
 ### For Advanced Users and Developers
-- [Generators and Databases](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/GeneratorsAndDatabaseAccess.ipynb) - This tutorial familiarizes the advanced users with internal functionalities of FRED2's data base adapters and generator functions.
+- [Databases](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/DBAdapterUsage.ipynb) - This tutorial familiarizes the advanced users with internal functionalities of FRED2's data base adapters.
 - [Interfaces](https://github.com/FRED-2/Fred2/blob/master/Fred2/tutorials/ImplementingNewMethods.ipynb) - This tutorial gives an overview of all abstract base classes relevant for implementing new prediction methods, or data base adapters.
 
