@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: FRED2
-description: "Python framework for immunoinformatics"
+title: FRED 2
+description: "Framework for Epitope Detection"
 logo: favicon.ico
 teaser: favicon.ico
 locale: en_US
