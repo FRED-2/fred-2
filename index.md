@@ -9,13 +9,13 @@ image:
 
 <div class="tile">
   <h2 class="post-title">What is FRED2</h2>
-  <p class="post-excerpt">FRED is a framework for T-cell epitope detection, and vaccine design. It offers consistent, 
+  <p class="post-excerpt">FRED 2 is a framework for T-cell epitope detection, and vaccine design. It offers consistent, 
   and easy access to well established immunoinformatics methods.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Getting Started</h2>
-  <p class="post-excerpt">The best way to familiarize yourself with FRED2 is by starting with our 
+  <p class="post-excerpt">The best way to familiarize yourself with FRED 2 is by starting with our 
   <b><a href="http://fred-2.github.io/getting-started/">tutorials</a></b>. The 
   <b><a href="http://fred-2.github.io/getting-started/">tutorials</a></b> cover the basic 
   functionality of FRED2.</p>
@@ -23,14 +23,14 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Documentation</h2>
-  <p class="post-excerpt">We spent a significant amount of effort on documenting FRED2’s functions and classes. 
+  <p class="post-excerpt">We spent a significant amount of effort on documenting FRED 2’s functions and classes. 
   You can find the documentation <b><a href="http://fred2.readthedocs.org">here</a></b>.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Get Involved</h2>
   <p class="post-excerpt">Your favorite prediction method is missing? You discovered a bug, or just want to extend 
-  FRED2's functionality? Have a look at our tutorials for developers 
+  FRED 2's functionality? Have a look at our tutorials for developers 
   <b><a href="https://github.com/FRED-2/Fred2/wiki#for-developers">here</a></b>.</p>
 </div><!-- /.tile -->
 
