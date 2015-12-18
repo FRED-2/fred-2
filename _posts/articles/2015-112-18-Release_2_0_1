@@ -10,7 +10,7 @@ image:
   teaser: mhc.png
   thumb: mhc.png
 comments: true
-date: 2015-10-29T10:39:36+01:00
+date: 2015-12-18T10:39:36+01:00
 ---
 
 Today we have release Fred2 2.0.1 that fixes a couple of small errors in the Fred2 2.0.0 release. 
