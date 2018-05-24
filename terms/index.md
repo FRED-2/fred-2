@@ -43,7 +43,7 @@ Stabsstelle Hochschulkommunikation
 
 Prof. Dr. Oliver Kohlbacher </br>
 Sand 14 </br>
-72076 Tübingen </br>
+72076 Tuebingen </br>
 Telefon: +49-7071-29-70458 </br>
 Fax: +49-7071-29-5152 </br>
-eMail: oliver.kohlbacher [@] uni-tuebingen.de </br>
+eMail: oliver.kohlbacher at uni-tuebingen.de
