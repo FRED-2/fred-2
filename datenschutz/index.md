@@ -11,6 +11,5 @@ share: false
 toc: true
 ---
 
-#### Datenschutzerklärung
 
 
