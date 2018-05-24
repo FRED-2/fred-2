@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Terms & Conditions"
+title: "Datenschutzerklärung"
 modified: 2014-08-27T15:00:35-04:00
 excerpt: "Terms & conditions, privacy policy, and license"
 image:
