@@ -41,8 +41,9 @@ Die Informationen auf dieser Website wurden nach bestem Wissen und Gewissen sorg
 
 Stabsstelle Hochschulkommunikation
 
-Dr. Karl Guido Rijkhoek <br/>
-Wilhelmstr. 5 <br/>
-72074 Tübingen <br/>
-E-Mail ord[at]uni-tuebingen.de <br/>
-Telefon +49 7071 29-77854 
+Prof. Dr. Oliver Kohlbacher </br>
+Sand 14 </br>
+72076 Tübingen </br>
+Telefon: +49-7071-29-70458 </br>
+Fax: +49-7071-29-5152 </br>
+eMail: oliver.kohlbacher [@] uni-tuebingen.de </br>
