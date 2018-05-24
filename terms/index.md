@@ -39,11 +39,12 @@ Wir erlauben ausdrücklich und begrüßen das Zitieren unserer Dokumente und Web
 
 Die Informationen auf dieser Website wurden nach bestem Wissen und Gewissen sorgfältig zusammengestellt und geprüft. Es wird jedoch keine Gewähr – weder ausdrücklich noch stillschweigend – für die Vollständigkeit, Richtigkeit oder Aktualität sowie die jederzeitige Verfügbarkeit der bereit gestellten Informationen übernommen. Eine Haftung für Schäden, die aus der Nutzung oder Nichtnutzung der auf dieser Website angebotenen Informationen entstehen ist – soweit gesetzlich zulässig – ausgeschlossen.
 
-Stabsstelle Hochschulkommunikation
+Ansprechpartner
+---------------------
 
-Prof. Dr. Oliver Kohlbacher </br>
-Sand 14 </br>
-72076 Tuebingen </br>
-Telefon: +49-7071-29-70458 </br>
-Fax: +49-7071-29-5152 </br>
-eMail: oliver.kohlbacher at uni-tuebingen.de
+Prof. Dr. Oliver Kohlbacher  
+Sand 14  
+72076 Tuebingen  
+Telefon: +49-7071-29-70458  
+Fax: +49-7071-29-5152  
+eMail: oliver.kohlbacher at uni-tuebingen.de  
