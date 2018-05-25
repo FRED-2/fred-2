@@ -42,4 +42,4 @@ Sand 14
 72076 Tuebingen  
 Telefon: +49-7071-29-70458  
 Fax: +49-7071-29-5152  
-eMail: oliver.kohlbacher at uni-tuebingen.de  
+eMail: oliver.kohlbacher [at] uni-tuebingen.de  
